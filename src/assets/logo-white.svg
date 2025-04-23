@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 428 389.11"><circle cx="214.15" cy="181" r="171" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="20"/><path d="M413 134.11H15.29a15 15 0 0 0-15 15v15.3C.12 168 0 171.52 0 175.11c0 118.19 95.81 214 214 214 116.4 0 211.1-92.94 213.93-208.67 0-.44.07-.88.07-1.33v-30a15 15 0 0 0-15-15Z" fill="#fff"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 564.5 304">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" width="382.2" height="214.7"/>
+    </clipPath>
+  </defs>
+  <g class="st2">
+    <path class="st1" d="M320.9,160.9l60.4-60.4-75.6-75.6c-32.3-32.3-84.7-32.3-117,0L0,213.7l121.4.9,126.6-126.6,72.9,72.9Z"/>
+  </g>
+  <path class="st1" d="M446,90.1l-125.1,125.1-72.2-72.2-60.4,60.4,78.6,78.6c29.4,29.4,77.1,29.4,106.5,0l191-191-118.5-.9Z"/>
+</svg>
